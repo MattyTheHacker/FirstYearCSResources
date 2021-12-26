@@ -1,4 +1,4 @@
-<header style="text-align:center">
+<header style="text-align:center;">
 <h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
 </header>
 # Key Dates
