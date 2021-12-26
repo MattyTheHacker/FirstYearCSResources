@@ -1,4 +1,6 @@
-[HOME](https://mattythehacker.github.io/FirstYearCSResources/)
+<header style="text-align:center">
+<h1><b>[HOME](https://mattythehacker.github.io/FirstYearCSResources/)</b></h1>
+</header>
 # Key Dates
 
 ## 21/22
