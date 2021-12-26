@@ -6,10 +6,11 @@
 
 ## Important Dates
 
-<a href="https://www.birmingham.ac.uk/welcome/2021/wellbeing/parents/key-dates.aspx">UoB Key Dates</a> <br>
-<a href="https://calendar.google.com/calendar/embed?src=311upsnbjculbu3ed2bjvlrqh8%40group.calendar.google.com&ctz=Europe%2FLondon">General Events (Google Calendar)</a> <br>
-<a href="https://calendar.google.com/calendar/embed?src=i356ffimkc4qrtnhjajos4jt9c%40group.calendar.google.com&ctz=Europe%2FLondon">In-Person Sessions (Google Calendar)</a> <br>
-<a href="https://calendar.google.com/calendar/embed?src=6q1ut7h5hj96pilm84855oclrg%40group.calendar.google.com&ctz=Europe%2FLondon">Online Sessions (Google Calendar)</a> <br>
+- <a href="https://www.birmingham.ac.uk/welcome/2021/wellbeing/parents/key-dates.aspx">UoB Key Dates</a>
+- <a href="https://calendar.google.com/calendar/embed?src=kg5v9k480jn2qahpmq33h8g7cs%40group.calendar.google.com&ctz=Europe%2FLondon">CSS Events(Google Calendar)</a>
+- <a href="https://calendar.google.com/calendar/embed?src=311upsnbjculbu3ed2bjvlrqh8%40group.calendar.google.com&ctz=Europe%2FLondon">General Events (Google Calendar)</a>
+- <a href="https://calendar.google.com/calendar/embed?src=i356ffimkc4qrtnhjajos4jt9c%40group.calendar.google.com&ctz=Europe%2FLondon">In-Person Sessions (Google Calendar)</a>
+- <a href="https://calendar.google.com/calendar/embed?src=6q1ut7h5hj96pilm84855oclrg%40group.calendar.google.com&ctz=Europe%2FLondon">Online Sessions (Google Calendar)</a>
 
 ## Modules
 
@@ -30,58 +31,38 @@
 - <a href="https://rl.talis.com/3/bham/lists/CB5A15D8-9C29-5D06-340B-74FD52A84B65.html?lang=en-GB&login=1">MLFCS</a>
 
 ### Semester 2
-- AI 1: https://rl.talis.com/3/bham/lists/6CD8B1EF-2CFC-5495-2E12-B6863ECA599D.html?lang=en-GB&login=1
-- FSAD: https://rl.talis.com/3/bham/lists/720D28DC-ED6B-8A03-1171-D42A2A45C415.html?lang=en-GB&login=1
-- ToC: https://rl.talis.com/3/bham/lists/4D96C8B7-EF31-DD25-5D2C-0E9F89DA9EC0.html?lang=en-GB&login=1
+- <a href="https://rl.talis.com/3/bham/lists/6CD8B1EF-2CFC-5495-2E12-B6863ECA599D.html?lang=en-GB&login=1">AI 1</a>
+- <a href="https://rl.talis.com/3/bham/lists/720D28DC-ED6B-8A03-1171-D42A2A45C415.html?lang=en-GB&login=1">FSAD</a>
+- <a href="https://rl.talis.com/3/bham/lists/4D96C8B7-EF31-DD25-5D2C-0E9F89DA9EC0.html?lang=en-GB&login=1">ToC</a>
 
-### Extra Reading: https://rhysimus.com/resources/
+<a href="https://rhysimus.com/resources/">Extra Reading</a>
 
 ## CSS
-- https://cssbham.com/join
-- https://cssbham.com/calendar
-- https://cssbham.com/discord
-- https://cssbham.com/github
+- <a href="https://cssbham.com/join">Join the Society</a>
+- <a href="https://cssbham.com/calendar">View the Calendar</a>
+- <a href="https://cssbham.com/discord">Join Discord</a>
+- <a href="https://cssbham.com/hoodies">Grab a hoodie</a>
+- <a href="https://cssbham.com/committee">Check out the Committee</a>
+- <a href="https://cssbham.com/github">View the GitHub</a>
 
 ## Web Timetables
-- Personal: https://onlinetimetables.bham.ac.uk/Timetable/current_academic_year_2/default.aspx
-- Generic: https://onlinetimetables.bham.ac.uk/Timetable/current_academic_year/
-- MyUob: https://myuob.bham.ac.uk/dashboard/student
-- Canvas: https://canvas.bham.ac.uk/
+- <a href="https://onlinetimetables.bham.ac.uk/Timetable/current_academic_year_2/default.aspx">Personal</a> 
+- <a href="https://onlinetimetables.bham.ac.uk/Timetable/current_academic_year/">Generic</a>
+- <a href="https://myuob.bham.ac.uk/dashboard/student">MyUob</a>
+- <a href="https://canvas.bham.ac.uk/calendar">Canvas</a>
 
 ## Guild of Students
-- Home: https://www.guildofstudents.com/
-- CSS: https://www.guildofstudents.com/studentgroups/societies/css/
-- Elections: https://www.guildofstudents.com/elections/
-- Events: https://www.guildofstudents.com/events/
-
-## Canvas
-### Module Info
-- DSA: https://canvas.bham.ac.uk/courses/56077
-- OOP: https://canvas.bham.ac.uk/courses/56084
-- MLFCS: https://canvas.bham.ac.uk/courses/56082
-
-### Assignments
-- DSA: https://canvas.bham.ac.uk/courses/56077/assignments
-- OOP: https://canvas.bham.ac.uk/courses/56084/assignments
-- MLFCS: https://canvas.bham.ac.uk/courses/56082/assignments
+- <a href="https://www.guildofstudents.com/">Home</a> 
+- <a href="https://www.guildofstudents.com/studentgroups/societies/css/">CSS</a>
 
 ## Free Stuff
-- https://education.github.com/pack
-
-## Personal Skills Award
-- Introduction: https://canvas.bham.ac.uk/courses/54902
-- Eligible Activities: https://canvas.bham.ac.uk/courses/54904/pages/
-- Conflict in Groups and Teams: https://canvas.bham.ac.uk/courses/56448
-- Developing Resilience and Adaptability: https://canvas.bham.ac.uk/courses/56449
-- Effective Networking: https://canvas.bham.ac.uk/courses/56450
-- Employability Essentials: https://canvas.bham.ac.uk/courses/56452
-- Time Management: https://canvas.bham.ac.uk/courses/56455
+- <a href="https://education.github.com/pack">GitHub Professional</a>
 
 ## Misc.
-- Panopto: https://bham.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx
-- Marks and Grades: https://student-gateway.bham.ac.uk/
-- Document Access: https://verify.bham.ac.uk/student
-- Password Manager: https://my.password.bham.ac.uk/PMUser/
-- IT Service Desk: https://universityofbirmingham.service-now.com/
-- Remote Access: https://remote.bham.ac.uk/
+- <a href="https://bham.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx">Panopto</a>
+- <a href="https://student-gateway.bham.ac.uk/">Marks and Grades</a>
+- <a href="https://verify.bham.ac.uk/student">Document Access</a>
+- <a href="https://my.password.bham.ac.uk/PMUser/">Password Manager</a>
+- <a href="https://universityofbirmingham.service-now.com/">IT Service Desk</a>
+- <a href="https://remote.bham.ac.uk/">Remote Access</a>
 
