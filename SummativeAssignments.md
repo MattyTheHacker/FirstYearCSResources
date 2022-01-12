@@ -36,8 +36,8 @@
 | Exercise Quiz 11 | MLFCS | 0.5% | 06/12/2021 | 14/12/2021 | Closed | 07/01/2022 |
 | Assignment 3 | OOP | 35% | 03/12/2021 | 16/12/2021 | Closed | 12/01/2022 |
 | Online Test 6 | OOP | 5% | 12/12/2021 | 22/12/2021 | Closed | Instant |
-| Exam | DSA | 80% | 10/01/2022 9:30AM | 10/01/2022 12:00AM | Not Released | 15 Working Days (tbc) |
-| Exam | MLFCS | 80% | 12/01/2022 9:30AM | 12/01/2022 12:00AM | Not Released | 15 Working Days (tbc) |
+| Exam | DSA | 80% | 10/01/2022 9:30AM | 10/01/2022 12:00AM | Closed | 31/01/2022 |
+| Exam | MLFCS | 80% | 12/01/2022 9:30AM | 12/01/2022 12:00AM | Closed | 02/02/2022 |
 
 ### Semester 2
 
