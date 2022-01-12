@@ -40,6 +40,7 @@
 | Exam | MLFCS | 80% | 12/01/2022 9:30AM | 12/01/2022 12:00AM | Closed | 02/02/2022 |
 
 ### Semester 2
+
 | Assessment | Module | Weight | Release | Due | Status | Marking Deadline |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Exam | ToC | 80% | TBC | TBC | Not Released | TBC |
