@@ -36,5 +36,4 @@ function csvToArray(str, delimiter = ",") {
   }
 
 const myDate = new Date();
-console.log(data);
 console.log(myDate);
