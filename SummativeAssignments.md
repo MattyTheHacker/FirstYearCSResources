@@ -46,8 +46,8 @@
 
 <div>
     <div id = "table"></div>
-    <script type = "module" src="/js/jquery-csv.js"></script>
-    <script type = "module" src="/js/main.js"></script>
+    <script src="jquery-csv.js"></script>
+    <script src="js/main.js"></script>
 </div>
 
 
