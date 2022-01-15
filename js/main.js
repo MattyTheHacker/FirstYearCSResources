@@ -1,6 +1,6 @@
 const csvFile = "/data/y1s2_sa.csv";
 const reader = new FileReader();
-reader.readAsText(input);
+reader.readAsText(csvFile);
 
 reader.onload = function (e) {
     const data = csvToArray(csvFile);
