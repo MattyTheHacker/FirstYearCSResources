@@ -1,3 +1,6 @@
+<head>
+    <link rel="stylesheet" href="css/main.css">
+</head>
 <header style="text-align:center">
 <h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
 </header>
@@ -40,6 +43,13 @@
 | Exam | MLFCS | 80% | 12/01/2022 9:30AM | 12/01/2022 12:00AM | Closed | 02/02/2022 |
 
 ### Semester 2
+
+<div>
+    <div id = "table"></div>
+    <script src="main.js"></script>
+</div>
+
+
 
 | Assessment | Module | Weight | Release | Due | Status | Marking Deadline |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
