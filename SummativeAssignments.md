@@ -46,7 +46,6 @@
 
 <div>
     <div id = "table"></div>
-    <script src="jquery-csv.js"></script>
     <script src="js/main.js"></script>
 </div>
 
