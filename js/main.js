@@ -1,4 +1,4 @@
-const csvFile = ("data/y1s2_sa.csv");
+const csvFile = "data/y1s2_sa.csv";
 const reader = new FileReader();
 
 reader.onload = function (e) {
@@ -18,7 +18,7 @@ function csvToArray(str, delimiter = ",") {
       return el;
     });
     return arr;
-  }
+}
 
 const myDate = new Date();
 console.log(myDate);
