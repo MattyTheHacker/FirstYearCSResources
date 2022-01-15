@@ -1,4 +1,4 @@
-var csv = require('jquery-csv');
+import csv from 'jquery-csv';
 var data = $.csv.toObjects("data/y1s2_sa.csv");
 const myDate = new Date();
 
