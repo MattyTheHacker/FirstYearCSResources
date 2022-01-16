@@ -22,7 +22,11 @@ txtFile.onreadystatechange = function() {
       allText = txtFile.responseText;
       lines = txtFile.responseText.split("\n"); // Will separate each line into an array
       console.log(allText);
+    } else {
+        console.log("File not found...");
     }
+  } else {
+      console.log("Document is not ready...");
   }
 }
 
