@@ -23,7 +23,7 @@ function loadFile(filePath) {
   xmlHttp.send();
   if (xmlHttp.status == 200) {
     result = xmlHttp.responseText.split("\n");
-    console.log(csvToArray(xmlHttp.responseText));
+    console.log(csvToArray(xmlHttp.responseText + ""));
   }
   return result;
 }
