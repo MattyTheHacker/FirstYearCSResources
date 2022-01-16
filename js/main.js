@@ -33,7 +33,7 @@ function loadFile(filePath) {
   return result;
 }
 
+data = loadFile(y1s2_assessment_data);
 
-
-console.log(loadFile(y1s2_assessment_data));
+console.log(data);
 console.log(myDate);
