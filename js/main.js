@@ -22,10 +22,10 @@ txtFile.onreadystatechange = function() {
       allText = txtFile.responseText;
       lines = txtFile.responseText.split("\n"); // Will separate each line into an array
       console.log(allText);
+      alert(allText);
     } else {
         console.log("File not found...");
-    }
-  } else {
+    }} else {
       console.log("Document is not ready...");
   }
 }
@@ -43,3 +43,4 @@ reader.readAsText(input);
   */
 const myDate = new Date();
 console.log(myDate);
+console.log(txtFile);
