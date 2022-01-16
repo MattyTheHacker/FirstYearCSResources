@@ -24,19 +24,17 @@ function csvToArray(str, delimiter = ",") {
     return arr;
 }
 */
+
+
 var txtFile = new XMLHttpRequest();
 txtFile.open("GET", csvFile, true);
-txtFile.onreadystatechange = function() {
-  if (txtFile.readyState === 4) {  // Makes sure the document is ready to parse.
-    if (txtFile.status === 200) {  // Makes sure it's found the file.
-      allText = txtFile.responseText;
-      lines = txtFile.responseText.split("\n"); // Will separate each line into an array
-      console.log(allText);
-    } else {
-        console.log("File not found...");
-    }} else {
-      console.log("Document is not ready...");
-  }
+txtFile.onreadystatechange = function () {
+    if (txtFile.readyState === 4 && txtFile.status == 200) {
+        allText = txtFile.responseText;
+        lines = txtFile.responseText.split("\n");
+        console.log(allText);
+        console.log(lines);
+    }
 }
 /**
 const reader = new FileReader();
