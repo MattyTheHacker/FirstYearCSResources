@@ -25,7 +25,7 @@ function csvToArray(str, delimiter = ",") {
 }
 */
 
-
+/** 
 var txtFile = new XMLHttpRequest();
 txtFile.onreadystatechange = function () {
     if (txtFile.readyState === 4 && txtFile.status == 200) {
@@ -36,6 +36,20 @@ txtFile.onreadystatechange = function () {
     }
 }
 txtFile.open("GET", csvFile);
+
+*/
+
+
+function loadFile(filePath) {
+  var result = null;
+  var xmlHttp = new XMLHttpRequest();
+  xmlHttp.open("GET", filePath, false);
+  xmlHttp.send();
+  if (xmlHttp.status==200) {
+    result = xmlHttp.responseText.split("\n");
+  }
+  return result;
+}
 
 
 /**
@@ -50,5 +64,5 @@ reader.readAsText(input);
 
   */
 const myDate = new Date();
+console.log(loadFile(data/y1s2_sa.csv));
 console.log(myDate);
-console.log(txtFile);
