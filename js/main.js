@@ -27,7 +27,6 @@ function csvToArray(str, delimiter = ",") {
 
 
 var txtFile = new XMLHttpRequest();
-txtFile.open("GET", csvFile, true);
 txtFile.onreadystatechange = function () {
     if (txtFile.readyState === 4 && txtFile.status == 200) {
         allText = txtFile.responseText;
@@ -36,6 +35,9 @@ txtFile.onreadystatechange = function () {
         console.log(lines);
     }
 }
+txtFile.open("GET", csvFile, true);
+
+
 /**
 const reader = new FileReader();
 reader.onload = function (fileInput) {
