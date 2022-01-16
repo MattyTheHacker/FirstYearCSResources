@@ -35,7 +35,7 @@ txtFile.onreadystatechange = function () {
         console.log(lines);
     }
 }
-txtFile.open("GET", csvFile, true);
+txtFile.open("GET", csvFile);
 
 
 /**
