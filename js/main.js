@@ -1,4 +1,4 @@
-const csvFile = "./data/y1s2_sa.csv";
+const csvFile = "../data/y1s2_sa.csv";
 
 
 /** 
