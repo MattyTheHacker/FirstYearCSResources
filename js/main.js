@@ -86,7 +86,6 @@ for (var l in s) {
 }
 html += '</tbody></table>';
   
-document.body.innerHTML = html;
 
 
 
