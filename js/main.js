@@ -85,7 +85,7 @@ for (var l in s) {
   html += '<tr>'+cols.map(function(c){ return '<td>'+(s[l][c]||'')+'</td>' }).join('')+'</tr>';
 }
 html += '</tbody></table>';
-  
+
 
 
 
