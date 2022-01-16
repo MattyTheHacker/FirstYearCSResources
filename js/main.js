@@ -1,6 +1,12 @@
 const y1s2_assessment_data = "data/y1s2_sa.csv";
 const myDate = new Date();
 
+/**
+ * 
+ * @param {string} str 
+ * @param {string} delimiter 
+ * @returns array
+ */
 function csvToArray(str, delimiter = ",") {
   const headers = str.slice(0, str.indexOf("\n")).split(delimiter);
   const rows = str.slice(str.indexOf("\n") + 1).split("\n");
@@ -22,6 +28,11 @@ function csvToArray(str, delimiter = ",") {
   return arr;
 }
 
+/**
+ * 
+ * @param {string} filePath 
+ * @returns array
+ */
 function loadFile(filePath) {
   var result = null;
   var xmlHttp = new XMLHttpRequest();
