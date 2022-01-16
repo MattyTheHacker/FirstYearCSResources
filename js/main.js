@@ -64,5 +64,5 @@ reader.readAsText(input);
 
   */
 const myDate = new Date();
-console.log(loadFile(data/y1s2_sa.csv));
+console.log(loadFile("data/y1s2_sa.csv"));
 console.log(myDate);
