@@ -26,6 +26,12 @@ function csvToArray(str, delimiter = ",") {
 
     if (element['"Released"'] == "Invalid Date" || element['"Due"'] == "Invalid Date") {
       element.Status = "Unknown";
+      if (element['"Released"'] == "Invalid Date") {
+        element['"Released"'] = "Unknown";
+      }
+      if (element['"Due"'] == "Invalid Date") {
+        element['"Due"'] = "Unknown";
+      }
     } else {
       currentTime = myDate.getTime();
       releaseTime = element['"Released"'].getTime();
