@@ -18,6 +18,7 @@
 | Semester 2 Teaching Begins | Monday 31st January | 31/01/2022 |
 | Easter Vacation Begins | Monday 4th April | 04/04/2022 |
 | Easter Vacation Ends | Friday 22nd April | 22/04/2022 |
+| Semester 2 Teaching Ends | Friday 6th May | 06/05/2022 |
 | Semester 2 Exam Period Begins | Monday 23rd May | 23/05/2022 |
 | Semester 2 Exam Period Ends | Saturday 11th June | 11/06/2022 |
 | Supplementary Exam Period Begins | Monday 15th August | 15/08/2022 |
