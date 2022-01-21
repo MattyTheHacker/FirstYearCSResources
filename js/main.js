@@ -16,7 +16,10 @@ function sortTableByColumn(table, column, asc = true) {
     const bColText = b.querySelector(`td:nth-child(${column + 1})`).textContent.trim();
     return aColText > bColText ? (1 * dirMod) : (-1 * dirMod);
   });
-  console.log(sortedRows);
+  while (tBody.firstChild) {
+    tBody.removeChild(tBody.firstChild);
+  }
+  tBody.append(...sortedRows);
 }
 
 
