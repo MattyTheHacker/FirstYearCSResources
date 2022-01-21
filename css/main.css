@@ -8,3 +8,19 @@ th, td {
     padding: 5px;
     text-align: center;
 }
+
+.th-sort-asc::after {
+    content: "\25b4";
+}
+
+.th-sort-desc::after {
+    content: "\25be";
+}
+
+.th-sort-asc::after, .th-sort-desc::after {
+    margin-left: 5px;
+}
+
+.th-sort-asc, .th-sort-desc {
+    background: rgba(0, 0, 0, 0.1);
+}
