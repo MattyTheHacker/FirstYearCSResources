@@ -57,11 +57,11 @@ function csvToArray(str, delimiter = ",") {
     return el;
   });
   arr.forEach(function (element) {
-    element['"Released"'] = formatDate(new Date(element['"Released"'].replaceAll('"', '')));
-    element['"Due"'] = formatDate(new Date(element['"Due"'].replaceAll('"', '')));
+    element['"Released"'] = (new Date(element['"Released"'].replaceAll('"', '')));
+    element['"Due"'] = (new Date(element['"Due"'].replaceAll('"', '')));
 
     if (!(new Date(element['"Marking Deadline"'].replaceAll('"', '')) == "Invalid Date")) {
-      element['"Marking Deadline"'] = formatDate(new Date(element['"Marking Deadline"'].replaceAll('"', '')));
+      element['"Marking Deadline"'] = (new Date(element['"Marking Deadline"'].replaceAll('"', '')));
     }
 
     if (element['"Released"'] == "Invalid Date" || element['"Due"'] == "Invalid Date") {
