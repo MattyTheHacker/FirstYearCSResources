@@ -47,7 +47,7 @@ function buildTable(s) {
       if (cols.indexOf(c) === -1) cols.push(c);
     }
   }
-  var html = '<table class=tftable><thead><tr>' +
+  var html = '<table class="tftable"><thead><tr>' +
     cols.map(function (c) { return '<th>' + c + '</th>' }).join('') + '</tr></thead><tbody>';
   for (var l in s) {
     html += '<tr>' + cols.map(function (c) { return '<td>' + (s[l][c] || '') + '</td>' }).join('') + '</tr>';
