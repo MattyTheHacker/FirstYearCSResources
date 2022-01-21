@@ -14,7 +14,7 @@ function formatDate(dateObject) {
     hour: dateObject.getHours().toString().padStart(2, "0"),
     minute: dateObject.getMinutes().toString().padStart(2, "0")
   };
-  return `${parts.date}/${parts.month}/${parts.year} ${parts.hour}:${parts.minute}`;
+  return `${parts.date}/${parts.month}/${parts.year}\n${parts.hour}:${parts.minute}`;
 }
 
 /**
