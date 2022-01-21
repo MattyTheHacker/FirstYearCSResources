@@ -14,9 +14,9 @@ function sortTableByColumn(table, column, asc = true) {
   const sortedRows = rows.sort((a, b) => {
     const aColText = a.querySelector(`td:nth-child(${column + 1})`).textContent.trim();
     const bColText = b.querySelector(`td:nth-child(${column + 1})`).textContent.trim();
-    console.log(aColText);
-    console.log(bColText);
+    return aColText > bColText ? (1 * dirMod) : (-1 * dirMod);
   });
+  console.log(sortedRows);
 }
 
 
