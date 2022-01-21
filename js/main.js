@@ -3,6 +3,28 @@ const myDate = new Date();
 
 /**
  * 
+ * @param {Array of Objects} s 
+ */
+function buildTable(s) {
+  var cols = [];
+  for (var k in s) {
+    for (var c in s[k]) {
+      if (cols.indexOf(c) === -1) cols.push(c);
+    }
+  }
+  var html = '<table class=tftable><thead><tr>' +
+    cols.map(function (c) { return '<th>' + c + '</th>' }).join('') +
+    '</tr></thead><tbody>';
+  for (var l in s) {
+    html += '<tr>' + cols.map(function (c) { return '<td>' + (s[l][c] || '') + '</td>' }).join('') + '</tr>';
+  }
+  html += '</tbody></table>';
+
+  document.getElementById("y1s2-table").innerHTML += html;
+}
+
+/**
+ * 
  * @param {string} str 
  * @param {string} delimiter 
  * @returns array
@@ -69,21 +91,5 @@ function loadFile(filePath) {
 }
 
 data = loadFile(y1s2_assessment_data);
-console.table(data);
+buildTable(data);
 
-var s = data;
-var cols = [];
-for (var k in s) {
-  for (var c in s[k]) {
-    if (cols.indexOf(c)===-1) cols.push(c);
-  }
-}
-var html = '<table class=tftable><thead><tr>'+
-    cols.map(function(c){ return '<th>'+c+'</th>' }).join('')+
-    '</tr></thead><tbody>';
-for (var l in s) {
-  html += '<tr>'+cols.map(function(c){ return '<td>'+(s[l][c]||'')+'</td>' }).join('')+'</tr>';
-}
-html += '</tbody></table>';
-
-document.getElementById("y1s2-table").innerHTML += html;
