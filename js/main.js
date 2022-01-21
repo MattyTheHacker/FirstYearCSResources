@@ -3,7 +3,23 @@ const myDate = new Date();
 
 /**
  * 
- * @param {Array of Objects} s 
+ * @param {Date} dateObject 
+ * @returns Date/Time String
+ */
+function formatDate(dateObject) {
+  const parts = {
+    date: dateObject.getDate(),
+    month: dateObject.getMonth() + 1,
+    year: dateObject.getFullYear(),
+    hour: dateObject.getHours(),
+    minute: dateObject.getMinutes()
+  };
+  return `${parts.date}/${parts.month}/${parts.year} ${parts.hour}:${parts.minute}`;
+}
+
+/**
+ * 
+ * @param {Array} s 
  */
 function buildTable(s) {
   var cols = [];
@@ -13,8 +29,7 @@ function buildTable(s) {
     }
   }
   var html = '<table class=tftable><thead><tr>' +
-    cols.map(function (c) { return '<th>' + c + '</th>' }).join('') +
-    '</tr></thead><tbody>';
+    cols.map(function (c) { return '<th>' + c + '</th>' }).join('') + '</tr></thead><tbody>';
   for (var l in s) {
     html += '<tr>' + cols.map(function (c) { return '<td>' + (s[l][c] || '') + '</td>' }).join('') + '</tr>';
   }
@@ -42,11 +57,11 @@ function csvToArray(str, delimiter = ",") {
     return el;
   });
   arr.forEach(function (element) {
-    element['"Released"'] = new Date(element['"Released"'].replaceAll('"', ''));
-    element['"Due"'] = new Date(element['"Due"'].replaceAll('"', ''));
+    element['"Released"'] = formatDate(new Date(element['"Released"'].replaceAll('"', '')));
+    element['"Due"'] = formatDate(new Date(element['"Due"'].replaceAll('"', '')));
 
     if (!(new Date(element['"Marking Deadline"'].replaceAll('"', '')) == "Invalid Date")) {
-      element['"Marking Deadline"'] = new Date(element['"Marking Deadline"'].replaceAll('"', ''));
+      element['"Marking Deadline"'] = formatDate(new Date(element['"Marking Deadline"'].replaceAll('"', '')));
     }
 
     if (element['"Released"'] == "Invalid Date" || element['"Due"'] == "Invalid Date") {
