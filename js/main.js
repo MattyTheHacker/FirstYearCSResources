@@ -52,6 +52,28 @@ function csvToArray(str, delimiter = ",") {
   return arr;
 }
 
+
+/**
+ * 
+ * @param {Array} data 
+ */
+function buildTable(data) {
+  var table = document.getElementById('y1s2-table');
+
+  for (var i = 0; i < data.length; i++) {
+    var row = `<tr>
+                  <td>${data[i].Assessment}</td>
+                  <td>${data[i].Module}</td>
+                  <td>${data[i].Weight}</td>
+                  <td>${data[i].Release}</td>
+                  <td>${data[i].Due}</td>
+                  <td>${data[i].Status}</td>
+                  <td>${data[i].data["Marking Deadline"]}</td>
+              </tr>`
+    table.innerHTML += row;
+  }
+}
+
 /**
  * 
  * @param {string} filePath 
@@ -71,21 +93,6 @@ function loadFile(filePath) {
 data = loadFile(y1s2_assessment_data);
 console.table(data);
 
-var s = data;
-var cols = [];
-for (var k in s) {
-  for (var c in s[k]) {
-    if (cols.indexOf(c)===-1) cols.push(c);
-  }
-}
-var html = '<table class=tftable><thead><tr>'+
-    cols.map(function(c){ return '<th>'+c+'</th>' }).join('')+
-    '</tr></thead><tbody>';
-for (var l in s) {
-  html += '<tr>'+cols.map(function(c){ return '<td>'+(s[l][c]||'')+'</td>' }).join('')+'</tr>';
-}
-html += '</tbody></table>';
-
-console.log(html);
+buildTable(data);
 
 document.getElementById("y1s2-table").innerHTML = html;

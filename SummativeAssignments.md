@@ -51,9 +51,12 @@
 | Exam | AI1 | 80% | TBC | TBC | Not Released | TBC |
 
 
-<div id="y1s2-table">
-    <h2>Test Content</h2>
-</div>
+<table>
+    <tbody id="y1s2-table">
+
+    
+    </tbody>
+</table>
 
 
 ## Year 2
