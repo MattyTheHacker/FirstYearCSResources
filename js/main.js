@@ -137,4 +137,12 @@ function loadFile(filePath) {
 
 data = loadFile(y1s2_assessment_data);
 buildTable(data);
-sortTableByColumn(document.querySelector("table"), 1);
+
+document.querySelectorAll(".table th").forEach(headerCell => {
+  headerCell.addEventListener("click", () => {
+    const tableElement = headerCell.parentElement.parentElement.parentElement;
+    const headerIndex = Array.prototype.indexOf.call(headerCell.parentElement.children, headerCell);
+    const currentIsAsc = headerCell.classList.contains("th-sort-asc");
+    sortTableByColumn(tableElement, headerIndex, !currentIsAsc);
+  });
+});
