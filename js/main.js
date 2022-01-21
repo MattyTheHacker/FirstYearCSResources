@@ -8,11 +8,11 @@ const myDate = new Date();
  */
 function formatDate(dateObject) {
   const parts = {
-    date: dateObject.getDate(),
-    month: dateObject.getMonth() + 1,
+    date: dateObject.getDate().toString().padStart(2, "0"),
+    month: (dateObject.getMonth() + 1).toString().padStart(2, "0"),
     year: dateObject.getFullYear(),
-    hour: dateObject.getHours(),
-    minute: dateObject.getMinutes()
+    hour: dateObject.getHours().toString().padStart(2, "0"),
+    minute: dateObject.getMinutes().toString().padStart(2, "0")
   };
   return `${parts.date}/${parts.month}/${parts.year} ${parts.hour}:${parts.minute}`;
 }
@@ -57,6 +57,8 @@ function csvToArray(str, delimiter = ",") {
     return el;
   });
   arr.forEach(function (element) {
+    //element['"Weight"'] = (element['"Weight"'] * 100) + "%"
+
     element['"Released"'] = (new Date(element['"Released"'].replaceAll('"', '')));
     element['"Due"'] = (new Date(element['"Due"'].replaceAll('"', '')));
 
