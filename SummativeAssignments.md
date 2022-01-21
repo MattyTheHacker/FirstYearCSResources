@@ -44,12 +44,6 @@
 
 ### Semester 2
 
-| Assessment | Module | Weight | Release | Due | Status | Marking Deadline |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Exam | ToC | 80% | TBC | TBC | Not Released | TBC |
-| Exam | AI1 | 80% | TBC | TBC | Not Released | TBC |
-
-
 <div id="y1s2-table">
 
 </div>
