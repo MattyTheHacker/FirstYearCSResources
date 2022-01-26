@@ -88,7 +88,7 @@ function csvToArray(str, delimiter = ",") {
     element['Due'] = (new Date(element['Due']));
 
     if (!(new Date(element['Marking Deadline']) == "Invalid Date")) {
-      element['Marking Deadline'] = (new Date(element['Marking Deadline']));
+      element['Marking Deadline'] = (formatDate(new Date(element['Marking Deadline'])));
     }
 
     if (element['Released'] == "Invalid Date" || element['Due'] == "Invalid Date") {
