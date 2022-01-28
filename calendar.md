@@ -10,7 +10,7 @@ calendar: true
 <h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
 </header>
 <div class="span3">
-	<h3>General Events</h3>
+	<h3>General Events - All Students</h3>
 <div id="upcoming"></div><!--/span-->
 </div>
 <div class="span9">
@@ -19,7 +19,7 @@ calendar: true
 
 
 <div class="span3">
-	<h3>In-Person Sessions</h3>
+	<h3>In-Person Sessions - First Year Only</h3>
 <div id="upcoming"></div><!--/span-->
 </div>
 <div class="span9">
@@ -29,7 +29,7 @@ calendar: true
 
 
 <div class="span3">
-	<h3>Online Sessions</h3>
+	<h3>Online Sessions - First Year Only</h3>
 <div id="upcoming"></div><!--/span-->
 </div>
 <div class="span9">
