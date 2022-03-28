@@ -26,14 +26,3 @@
 | Supplementary Exam Timetable Release | Friday 5th August | 05/08/2022 |
 | Supplementary Exam Period Begins | Monday 15th August | 15/08/2022 |
 | Supplementary Exam Period Ends | Saturday 27th August | 27/08/2022 | 
-
-
-
-
-## 22/23
-
-
-
-## 23/24
-
-
