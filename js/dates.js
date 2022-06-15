@@ -8,10 +8,10 @@ function csvToTable(csv, table) {
         var hrcell = hrow.insertCell(0);
         hrcell.innerHTML = '<strong>' + headers[i] + '</strong>';
     }
-    
+    var body = table.createTBody();
     for (var i = 1; i < lines.length; i++) {
         var cells = lines[i].split(",");
-        var row = table.insertRow(-1);
+        var row = body.insertRow(-1);
         for (var j = 0; j < cells.length; j++) {
             var cell = row.insertCell(-1);
             cell.innerHTML = cells[j];

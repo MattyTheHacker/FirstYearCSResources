@@ -6,13 +6,13 @@
 
 <h2 id="itsaheadernotafuckingtableyoustupidcunt2223">22/23</h2>
 
-<table id="2223" align="center"></table>
+<table id="2223"></table>
 
 
 
 <h2 id="itsaheadernotafuckingtableyoustupidcunt2122">21/22</h2>
 
-<table id="2122" align="center"></table>
+<table id="2122"></table>
 
 
 ## OLD
