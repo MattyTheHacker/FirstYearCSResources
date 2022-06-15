@@ -1,5 +1,4 @@
 <header style="text-align:center;">
-<script src="js/dates.js"></script>
 <h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
 </header>
 # Key Dates
@@ -42,3 +41,4 @@
 | Supplementary Exam Period Ends | Saturday 27th August | 27/08/2022 | 
 
 
+<script src="js/dates.js"></script>
