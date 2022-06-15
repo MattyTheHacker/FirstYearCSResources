@@ -36,9 +36,12 @@ function displayDates(year) {
 var tables = document.getElementsByTagName("table");
 for (var i = 0; i < tables.length; i++) {
     var table = tables[i];
+    console.log(table);
     var year = table.id;
+    console.log(year);
     if (year) {
         data = displayDates(year);
+        console.log(data);
         csvToTable(data, table.id);
     }
 }
