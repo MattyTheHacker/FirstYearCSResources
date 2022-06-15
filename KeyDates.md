@@ -7,14 +7,13 @@
 
 ## 22/23
 
-displayDates(21-22)
-<table id="22-23"></table>
+<table id="2223"></table>
 
 
 
 ## 21/22
 
-<table id="21-22"></table>
+<table id="2122"></table>
 
 
 ## OLD
