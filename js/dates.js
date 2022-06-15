@@ -4,6 +4,7 @@ function csvToTable(csv, table) {
     var table = document.getElementById(table);
     for (var i = 1; i < lines.length; i++) {
         var cells = lines[i].split(",");
+        console.log(table);
         var row = table.insertRow(-1);
         for (var j = 0; j < cells.length; j++) {
             var cell = row.insertCell(-1);
