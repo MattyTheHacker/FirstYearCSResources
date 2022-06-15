@@ -1,9 +1,24 @@
 <header style="text-align:center;">
+<script src="js/dates.js"></script>
 <h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
 </header>
 # Key Dates
 
+
+## 22/23
+
+displayDates(21-22)
+<table id="22-23"></table>
+
+
+
 ## 21/22
+
+<table id="21-22"></table>
+
+
+## OLD
+
 
 | Event | Day | (DD/MM/YYYY) |
 | :--: | :--: | :--: |
@@ -26,3 +41,5 @@
 | Supplementary Exam Timetable Release | Friday 5th August | 05/08/2022 |
 | Supplementary Exam Period Begins | Monday 15th August | 15/08/2022 |
 | Supplementary Exam Period Ends | Saturday 27th August | 27/08/2022 | 
+
+
