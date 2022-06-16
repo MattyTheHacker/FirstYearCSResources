@@ -5,7 +5,7 @@ function csvToTable(csv, table) {
     var header = table.createTHead();
     var hrow = header.insertRow(0);
     for (var i = 0; i < headers.length; i++) {
-        var hrcell = hrow.insertCell(0);
+        var hrcell = hrow.insertCell(-1);
         hrcell.innerHTML = '<strong>' + headers[i] + '</strong>';
     }
     var body = table.createTBody();
