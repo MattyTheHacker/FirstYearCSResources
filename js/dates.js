@@ -1,5 +1,5 @@
-const weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
-const monthNames = ["January", "February", "March", "April", "May", "June","July", "August", "September", "October", "November", "December"];
+const weekday = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
 function formatShortDate(dateObject) {
     const parts = {
@@ -41,8 +41,10 @@ function csvToTable(csv, table) {
         var cells = lines[i].split(",");
         var row = body.insertRow(-1);
         for (var j = 0; j < cells.length; j++) {
+            if (j != 1) {
             var cell = row.insertCell(-1);
             cell.innerHTML = cells[j];
+            }
         }
     }
 }
