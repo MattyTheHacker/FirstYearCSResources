@@ -1,7 +1,7 @@
 <head>
 <style>
 .markdown-body {
-  max-width: auto;
+  max-width: 1920px;
   margin: 0 auto;
   padding: 10px;
 }
