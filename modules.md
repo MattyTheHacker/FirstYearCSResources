@@ -2,6 +2,8 @@
 <h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
 </header>
 
+To go to the module page, please click on the module code.
+To go to the module reading list, please click on the module title.
 
 # Year 1 (2021)
 
