@@ -42,7 +42,33 @@
 
 
 # Year 3
-https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/3
+
+[Year 3 Module List](https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/3)
+
+| Code | Title | Sem | Exam:CA |
+| :--: | :--: | :--: | :--: |
+| [06-26581](https://www.cs.bham.ac.uk/internal/modules/2022/06-26581/) | Computer Science Project | Both | 00:100 |
+| [06-35309](https://www.cs.bham.ac.uk/internal/modules/2022/06-35309/) | Advanced Functional Programming | 2 | 00:100 |
+| [06-30209](https://www.cs.bham.ac.uk/internal/modules/2022/06-30209/) | Advanced Networking | 1 | 80:20 |
+| [06-35308](https://www.cs.bham.ac.uk/internal/modules/2022/06-35308/) | Algorithms and Complexity | 2 | 50:50 |
+| [06-30211](https://www.cs.bham.ac.uk/internal/modules/2022/06-30211/) | Computer-Aided Verification | 1 | 80:20 |
+| [06-30213](https://www.cs.bham.ac.uk/internal/modules/2022/06-30213/) | Computer Vision and Imaging | 2 | 50:50 |
+| [06-35310](https://www.cs.bham.ac.uk/internal/modules/2022/06-35310/) | Evolutionary Computation | 2 | 50:50 |
+| [06-30214](https://www.cs.bham.ac.uk/internal/modules/2022/06-30214/) | Human-Computer Interaction | 1 | 00:100 |
+| [06-37809](https://www.cs.bham.ac.uk/internal/modules/2022/06-37809/) | Intelligent Interactive Systems | 2 | 80:20 |
+| [06-30227](https://www.cs.bham.ac.uk/internal/modules/2022/06-30227/) | Intelligent Robotics | 1 | 00:100 |
+| [06-30229](https://www.cs.bham.ac.uk/internal/modules/2022/06-30229/) | Machine Learning & Intelligent Data Analysis | 1 | 80:20 |
+| [06-29289](https://www.cs.bham.ac.uk/internal/modules/2022/06-29289/) | Mobile & Ubiquitous Computing | 2 | 00:100 |
+| [06-37810](https://www.cs.bham.ac.uk/internal/modules/2022/06-37810/) | Natural Language Processing | 2 | 80:20 |
+| [06-32167](https://www.cs.bham.ac.uk/internal/modules/2022/06-32167/) | Neural Computation | 1 | 80:20 |
+| [06-30230](https://www.cs.bham.ac.uk/internal/modules/2022/06-30230/) | Programming Language Principles, Design & Implementation | 1 | 80:20 |
+| [06-35307](https://www.cs.bham.ac.uk/internal/modules/2022/06-35307/) | Quantum Computing | 2 | 80:20 |
+| [06-30231](https://www.cs.bham.ac.uk/internal/modules/2022/06-30231/) | Security of Real-World Systems | 1 | 80:20 |
+| [06-30208](https://www.cs.bham.ac.uk/internal/modules/2022/06-30208/) | Teaching Computer Science in Schools | 1 | 00:100 |
+
+
+
+
 
 
 
