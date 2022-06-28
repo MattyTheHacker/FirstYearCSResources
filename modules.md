@@ -1,12 +1,3 @@
-<head>
-<style>
-.markdown-body {
-  max-width: 1920px;
-  margin: 0 auto;
-  padding: 10px;
-}
-</style>
-</head>
 <header style="text-align:center">
 <h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
 </header>
