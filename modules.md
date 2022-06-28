@@ -14,9 +14,7 @@
 
 # Year 1 (2021)
 
-
 [Year 1 Module List](https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/1)
-
 
 | Code | Title | Sem | Exam:CA |
 | :--: | :--: | :--: | :--: |
@@ -30,11 +28,17 @@
 
 
 # Year 2
-https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/2
 
+[Year 2 Module List](https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/2)
 
-
-
+| Code | Title | Sem | Exam:CA |
+| :--: | :--: | :--: | :--: |
+| [06-34255](https://www.cs.bham.ac.uk/internal/modules/2022/06-34255/) | Artificial Intelligence 2 | 2 | 80:20 |
+| [06-34253](https://www.cs.bham.ac.uk/internal/modules/2022/06-34253/) | Functional Programming | 1 | 00:100 |
+| [06-38059](https://www.cs.bham.ac.uk/internal/modules/2022/06-38059/) | Operating Systems & Systems Programming | 1 | 50:50 |
+| [06-30195](https://www.cs.bham.ac.uk/internal/modules/2022/06-30195/) | Security and Networks | 2 | 80:20 |
+| [06-34257](https://www.cs.bham.ac.uk/internal/modules/2022/06-34257/) | Software Engineering & Professional Practice | 1 | 00:100 |
+| [06-26263](https://www.cs.bham.ac.uk/internal/modules/2022/06-26263/) | Team Project | 2 | 00:100 |
 
 
 # Year 3
