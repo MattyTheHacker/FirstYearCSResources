@@ -18,6 +18,7 @@
 ## Modules
 
 <a href="https://www.cs.bham.ac.uk/internal/programmes/2021">All SoCS Programmes</a><br>
+<a href="https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getSchoolList">Central Uni Programmes and Modules List</a>
 
 
 ### BSc. CS
@@ -31,7 +32,7 @@
 
 Resource lists are currently being migrated to the <a href="modules"> Modules </a> page.
 
-Please be aware the page is still under construction and as such may have problems or not be up to date. If you have any questions, please contact the <a href="https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/1/staff">Year 1 Staff</a> or <a href="https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/2/staff">Year 2 Staff</a> or <a href="https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/3/staff">Year 3 Staff</a>.
+Please be aware the page is still under construction and as such may have problems or not be up to date.
 
 
 ## CSS
