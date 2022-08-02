@@ -9,12 +9,12 @@
 
 ## Misc.
 - <a href="https://bham.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx">Panopto</a>
-- <a href="https://student-gateway.bham.ac.uk/">Marks and Grades</a>
-- <a href="https://verify.bham.ac.uk/">Document Access</a>
+- <a href="https://student-gateway.bham.ac.uk/">Student Gateway (Marks and Grades)</a>
+- <a href="https://verify.bham.ac.uk/">Verify (Official Letters and Documents)</a>
 - <a href="https://my.password.bham.ac.uk/PMUser/">Password Manager</a>
 - <a href="https://universityofbirmingham.service-now.com/">IT Service Desk</a>
 - <a href="https://remote.bham.ac.uk/">Remote Access</a>
-- <a href="https://intranet.birmingham.ac.uk/as/registry/studentrecords/documents/public/ug-transfer-form-docx-51kb.docx">Course Change Form</a>
+- <a href="https://intranet.birmingham.ac.uk/as/registry/studentrecords/documents/public/ug-transfer-form-docx-51kb.docx">Course Change Form (Year in Industry)</a>
 
 
 ## Important Dates
