@@ -23,6 +23,18 @@ function csvToArray(str, delimiter = ",") {
     element['"Released"'] = new Date(element['"Released"'].replaceAll('"', ''));
     element['"Due"'] = new Date(element['"Due"'].replaceAll('"', ''));
     element['"Marking Deadline"'] = new Date(element['"Marking Deadline"'].replaceAll('"', ''));
+
+    currentTime = myDate.getTime();
+    releaseTime = element['"Released"'].getTime();
+    dueTime = element['"Due"'].getTime();
+
+    if (currentTime < releaseTime) {
+      element.Status = "Not Released";
+    } if (currentTime > releaseTime && currentTime < dueTime) {
+      element.Status = "Open";
+    } if (currentTime > dueTime) {
+      element.Status = "Closed";
+    }
   })
   return arr;
 }
