@@ -77,6 +77,9 @@ function csvToArray(str, delimiter = ",") {
       releaseTime = element['"Released"'].getTime();
       dueTime = element['"Due"'].getTime();
 
+      element['"Released"'] = formatDate(element['"Released"']);
+      element['"Due"'] = formatDate(element['"Due"']);
+
       if (currentTime < releaseTime) {
         element.Status = "Not Released";
       } if (currentTime > releaseTime && currentTime < dueTime) {
