@@ -6,6 +6,7 @@ type: info
 header_text: Calendar
 calendar: true
 ---
+[HOME](https://mattythehacker.github.io/FirstYearCSResources/)
 <div class="span3">
 	<h3>General Events</h3>
 <div id="upcoming"></div><!--/span-->
