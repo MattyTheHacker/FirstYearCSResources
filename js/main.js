@@ -13,6 +13,11 @@ function csvToArray(str, delimiter = ",") {
     }, {});
     return el;
   });
+  arr.forEach(function (element) {
+    element.Released = Date.parse(element.Released);
+    element.Due = Date.parse(element.Due);
+  })
+
   return arr;
 }
 
