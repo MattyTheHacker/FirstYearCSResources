@@ -52,11 +52,10 @@ function csvToArray(str, delimiter = ",") {
   return arr;
 }
 
-
 /**
  * 
  * @param {Array} data 
- */
+ */ /**
 function buildTable(data) {
   var table = document.getElementById('y1s2-table');
 
@@ -73,7 +72,7 @@ function buildTable(data) {
     table.innerHTML += row;
   }
 }
-
+*/
 /**
  * 
  * @param {string} filePath 
@@ -93,6 +92,21 @@ function loadFile(filePath) {
 data = loadFile(y1s2_assessment_data);
 console.table(data);
 
-buildTable(data);
+//buildTable(data);
 
-document.getElementById("y1s2-table").innerHTML = html;
+var s = data;
+var cols = [];
+for (var k in s) {
+  for (var c in s[k]) {
+    if (cols.indexOf(c)===-1) cols.push(c);
+  }
+}
+var html = '<table class=tftable><thead><tr>'+
+    cols.map(function(c){ return '<th>'+c+'</th>' }).join('')+
+    '</tr></thead><tbody>';
+for (var l in s) {
+  html += '<tr>'+cols.map(function(c){ return '<td>'+(s[l][c]||'')+'</td>' }).join('')+'</tr>';
+}
+html += '</tbody></table>';
+
+document.getElementById("y1s2-table").innerHTML += html;
