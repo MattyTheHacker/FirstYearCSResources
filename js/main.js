@@ -71,7 +71,7 @@ function loadFile(filePath) {
 data = loadFile(y1s2_assessment_data);
 console.table(data);
 
-
+var s = data;
 var cols = [];
 for (var k in s) {
   for (var c in s[k]) {
