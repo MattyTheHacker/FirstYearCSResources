@@ -191,6 +191,7 @@ body {
 
 .fa-github:hover {
     color: #161414 !important;
+    font-size: medium;
 }
 
 .fa-whatsapp:hover {
