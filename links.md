@@ -1,12 +1,15 @@
 <header style="text-align:center">
 <h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
 </header>
+
 # Useful links
+
 ## Important Dates
-<a href="https://www.birmingham.ac.uk/welcome/2021/wellbeing/parents/key-dates.aspx">UoB Key Dates</a>
-<a href="https://calendar.google.com/calendar/embed?src=311upsnbjculbu3ed2bjvlrqh8%40group.calendar.google.com&ctz=Europe%2FLondon">General Events (Google Calendar)</a>
-<a href="https://calendar.google.com/calendar/embed?src=i356ffimkc4qrtnhjajos4jt9c%40group.calendar.google.com&ctz=Europe%2FLondon">In-Person Sessions (Google Calendar)</a>
-<a href="https://calendar.google.com/calendar/embed?src=6q1ut7h5hj96pilm84855oclrg%40group.calendar.google.com&ctz=Europe%2FLondon">Online Sessions (Google Calendar)</a>
+
+<a href="https://www.birmingham.ac.uk/welcome/2021/wellbeing/parents/key-dates.aspx">UoB Key Dates</a> <br>
+<a href="https://calendar.google.com/calendar/embed?src=311upsnbjculbu3ed2bjvlrqh8%40group.calendar.google.com&ctz=Europe%2FLondon">General Events (Google Calendar)</a> <br>
+<a href="https://calendar.google.com/calendar/embed?src=i356ffimkc4qrtnhjajos4jt9c%40group.calendar.google.com&ctz=Europe%2FLondon">In-Person Sessions (Google Calendar)</a> <br>
+<a href="https://calendar.google.com/calendar/embed?src=6q1ut7h5hj96pilm84855oclrg%40group.calendar.google.com&ctz=Europe%2FLondon">Online Sessions (Google Calendar)</a> <br>
 
 ## Modules
 https://www.cs.bham.ac.uk/internal/programmes/2021
