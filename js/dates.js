@@ -9,6 +9,7 @@ function csvToTable(csv, table) {
         hrcell.innerHTML = '<strong>' + headers[i] + '</strong>';
     }
     var body = table.createTBody();
+    console.log(lines);
     for (var i = 1; i < lines.length; i++) {
         var cells = lines[i].split(",");
         var row = body.insertRow(-1);
