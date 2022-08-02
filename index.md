@@ -1,6 +1,6 @@
 <header style="text-align:center;">
-<b><h1><a href="KeyDates">Key Dates</a></h1><br>
-<h1><a href="SummativeAssignments">Summative Assignments</a></h1><br>
-<h1><a href="calendar">Calendars</a></h1><br>
-<h1><a href="links">Links</a></h1><br></b>
+<h1><a href="KeyDates"><b>Key Dates</b></a></h1><br>
+<h1><a href="SummativeAssignments"><b>Summative Assignments</b></a></h1><br>
+<h1><a href="calendar"><b>Calendars</b></a></h1><br>
+<h1><a href="links"><b>Links</b></a></h1><br>
 </header>
