@@ -15,7 +15,6 @@
 <header style="text-align:center">
 <h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
 </header>
-<body>
 
 
 # Year 1 (2021)
@@ -46,8 +45,6 @@ https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/2
 # Year 3
 https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/3
 
-
-</body>
 
 
 
