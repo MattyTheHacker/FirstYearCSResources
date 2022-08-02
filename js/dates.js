@@ -42,7 +42,7 @@ for (var i = 0; i < tables.length; i++) {
     if (year) {
         data = displayDates(year);
         console.log(data);
-        csvToTable(data, table.id);
+        csvToTable(data, year);
     }
 }
 
