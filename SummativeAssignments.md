@@ -1,4 +1,6 @@
-[HOME](https://mattythehacker.github.io/FirstYearCSResources/)
+<header style="text-align:center">
+<h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
+</header>
 # Summative Assignments
 ## Year 1
 ### Semester 1

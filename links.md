@@ -1,4 +1,6 @@
-[HOME](https://mattythehacker.github.io/FirstYearCSResources/)
+<header style="text-align:center">
+<h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
+</header>
 # Useful links
 ## Important Dates
 - https://www.birmingham.ac.uk/welcome/2021/wellbeing/parents/key-dates.aspx
