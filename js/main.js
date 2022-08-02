@@ -11,12 +11,12 @@ function sortTableByColumn(table, column, asc = true) {
   const dirMod = asc ? 1 : -1;
   const tBody = table.tBodies[0];
   const rows = Array.from(tBody.querySelectorAll("tr"));
-
-  //sort it
   const sortedRows = rows.sort((a, b) => {
-    console.log(a);
-    console.log(b);
-  })
+    const aColText = a.querySelector(`td:nth-child(${column + 1})`).textContent.trim();
+    const bColText = b.querySelector(`td:nth-child(${column + 1})`).textContent.trim();
+    console.log(aColText);
+    console.log(bColText);
+  });
 }
 
 
