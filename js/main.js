@@ -22,7 +22,10 @@ function csvToArray(str, delimiter = ",") {
   arr.forEach(function (element) {
     element['"Released"'] = new Date(element['"Released"'].replaceAll('"', ''));
     element['"Due"'] = new Date(element['"Due"'].replaceAll('"', ''));
-    element['"Marking Deadline"'] = new Date(element['"Marking Deadline"'].replaceAll('"', ''));
+
+    if (!(new Date(element['"Marking Deadline"'].replaceAll('"', '')) == "Invalid Date")) {
+      element['"Marking Deadline"'] = new Date(element['"Marking Deadline"'].replaceAll('"', ''));
+    }
 
     if (element['"Released"'] == "Invalid Date" || element['"Due"'] == "Invalid Date") {
       element.Status = "Unknown";
