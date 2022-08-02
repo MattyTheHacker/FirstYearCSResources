@@ -33,7 +33,7 @@
 ### Semester 2
 - <a href="https://rl.talis.com/3/bham/lists/6CD8B1EF-2CFC-5495-2E12-B6863ECA599D.html?lang=en-GB&login=1">AI 1</a>
 - <a href="https://rl.talis.com/3/bham/lists/720D28DC-ED6B-8A03-1171-D42A2A45C415.html?lang=en-GB&login=1">FSAD</a>
-- <a href="https://rl.talis.com/3/bham/lists/4D96C8B7-EF31-DD25-5D2C-0E9F89DA9EC0.html?lang=en-GB&login=1">ToC</a>
+- <a href="https://rl.talis.com/3/bham/lists/2368E554-0AE3-2A9C-2F25-51B8FA06E416.html?lang=en-GB&login=1">ToC</a>
 
 <a href="https://rhysimus.com/resources/">Extra Reading</a>
 
