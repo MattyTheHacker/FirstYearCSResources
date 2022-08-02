@@ -59,28 +59,28 @@ function csvToArray(str, delimiter = ",") {
   arr.forEach(function (element) {
     //element['"Weight"'] = (element['"Weight"'] * 100) + "%"
 
-    element['"Released"'] = (new Date(element['"Released"'].replaceAll('"', '')));
-    element['"Due"'] = (new Date(element['"Due"'].replaceAll('"', '')));
+    element['Released'] = (new Date(element['Released']));
+    element['Due'] = (new Date(element['Due']));
 
-    if (!(new Date(element['"Marking Deadline"'].replaceAll('"', '')) == "Invalid Date")) {
-      element['"Marking Deadline"'] = (new Date(element['"Marking Deadline"'].replaceAll('"', '')));
+    if (!(new Date(element['Marking Deadline']) == "Invalid Date")) {
+      element['Marking Deadline'] = (new Date(element['Marking Deadline']));
     }
 
-    if (element['"Released"'] == "Invalid Date" || element['"Due"'] == "Invalid Date") {
+    if (element['Released'] == "Invalid Date" || element['Due'] == "Invalid Date") {
       element.Status = "Unknown";
-      if (element['"Released"'] == "Invalid Date") {
-        element['"Released"'] = "Unknown";
+      if (element['Released'] == "Invalid Date") {
+        element['Released'] = "Unknown";
       }
-      if (element['"Due"'] == "Invalid Date") {
-        element['"Due"'] = "Unknown";
+      if (element['Due'] == "Invalid Date") {
+        element['Due'] = "Unknown";
       }
     } else {
       currentTime = myDate.getTime();
-      releaseTime = element['"Released"'].getTime();
-      dueTime = element['"Due"'].getTime();
+      releaseTime = element['Released'].getTime();
+      dueTime = element['Due'].getTime();
 
-      element['"Released"'] = formatDate(element['"Released"']);
-      element['"Due"'] = formatDate(element['"Due"']);
+      element['Released'] = formatDate(element['Released']);
+      element['Due'] = formatDate(element['Due']);
 
       if (currentTime < releaseTime) {
         element.Status = "Not Released";
