@@ -3,7 +3,10 @@
 </header>
 
 To go to the module page, please click on the module code.
+
 To go to the module reading list, please click on the module title.
+
+Please be aware the page is still under construction and as such may have problems or not be up to date. If you have any questions, please contact the <a href="https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/1/staff">Year 1 Staff</a> or <a href="https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/2/staff">Year 2 Staff</a> or <a href="https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/3/staff">Year 3 Staff</a>.
 
 # Year 1 (2021)
 
