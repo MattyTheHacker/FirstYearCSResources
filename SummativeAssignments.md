@@ -5,6 +5,8 @@
 <h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
 </header>
 
+*Please be aware sorting by date is horrifically broken. I'm working on it, sorry. -Matty*
+
 # Summative Assignments
 
 ## Year 1
