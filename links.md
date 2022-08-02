@@ -6,6 +6,17 @@
 
 *All links on this page are applicable to all students unless stated otherwise.*
 
+
+## Misc.
+- <a href="https://bham.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx">Panopto</a>
+- <a href="https://student-gateway.bham.ac.uk/">Marks and Grades</a>
+- <a href="https://verify.bham.ac.uk/">Document Access</a>
+- <a href="https://my.password.bham.ac.uk/PMUser/">Password Manager</a>
+- <a href="https://universityofbirmingham.service-now.com/">IT Service Desk</a>
+- <a href="https://remote.bham.ac.uk/">Remote Access</a>
+- <a href="https://intranet.birmingham.ac.uk/as/registry/studentrecords/documents/public/ug-transfer-form-docx-51kb.docx">Course Change Form</a>
+
+
 ## Important Dates
 
 - <a href="https://www.birmingham.ac.uk/welcome/2021/wellbeing/parents/key-dates.aspx">UoB Key Dates</a>
@@ -55,12 +66,5 @@ Please be aware the page is still under construction and as such may have proble
 ## Free Stuff
 - <a href="https://education.github.com/pack">GitHub Professional</a>
 
-## Misc.
-- <a href="https://bham.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx">Panopto</a>
-- <a href="https://student-gateway.bham.ac.uk/">Marks and Grades</a>
-- <a href="https://verify.bham.ac.uk/">Document Access</a>
-- <a href="https://my.password.bham.ac.uk/PMUser/">Password Manager</a>
-- <a href="https://universityofbirmingham.service-now.com/">IT Service Desk</a>
-- <a href="https://remote.bham.ac.uk/">Remote Access</a>
-- <a href="https://intranet.birmingham.ac.uk/as/registry/studentrecords/documents/public/ug-transfer-form-docx-51kb.docx">Course Change Form</a>
+
 
