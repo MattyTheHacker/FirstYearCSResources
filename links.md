@@ -12,19 +12,22 @@
 <a href="https://calendar.google.com/calendar/embed?src=6q1ut7h5hj96pilm84855oclrg%40group.calendar.google.com&ctz=Europe%2FLondon">Online Sessions (Google Calendar)</a> <br>
 
 ## Modules
-https://www.cs.bham.ac.uk/internal/programmes/2021
+
+<a href="https://www.cs.bham.ac.uk/internal/programmes/2021">All SoCS Programmes</a><br>
+
 
 ### BSc. CS
-- Year 1: https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/1
-- Year 2: https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/2
-- Year 3: https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/3
+
+- <a href="https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/1">Year 1</a>
+- <a href="https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/2">Year 2</a>
+- <a href="https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/3">Year 3</a>
 
 
 ## Resources
 ### Semester 1
-- OOP: https://rl.talis.com/3/bham/lists/B7DB904B-AD4C-4058-A3E2-C1B29783B6E9.html?lang=en-GB&login=1
-- DSA: https://rl.talis.com/3/bham/lists/9D90A298-56FA-D257-8912-E8D987062F10.html?lang=en-GB&login=1
-- MLFCS: https://rl.talis.com/3/bham/lists/CB5A15D8-9C29-5D06-340B-74FD52A84B65.html?lang=en-GB&login=1
+- <a href="https://rl.talis.com/3/bham/lists/B7DB904B-AD4C-4058-A3E2-C1B29783B6E9.html?lang=en-GB&login=1">OOP</a>
+- <a href="https://rl.talis.com/3/bham/lists/9D90A298-56FA-D257-8912-E8D987062F10.html?lang=en-GB&login=1">DSA</a> 
+- <a href="https://rl.talis.com/3/bham/lists/CB5A15D8-9C29-5D06-340B-74FD52A84B65.html?lang=en-GB&login=1">MLFCS</a>
 
 ### Semester 2
 - AI 1: https://rl.talis.com/3/bham/lists/6CD8B1EF-2CFC-5495-2E12-B6863ECA599D.html?lang=en-GB&login=1
