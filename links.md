@@ -85,4 +85,5 @@
 - <a href="https://my.password.bham.ac.uk/PMUser/">Password Manager</a>
 - <a href="https://universityofbirmingham.service-now.com/">IT Service Desk</a>
 - <a href="https://remote.bham.ac.uk/">Remote Access</a>
+- <a href="https://intranet.birmingham.ac.uk/as/registry/studentrecords/documents/public/ug-transfer-form-docx-51kb.docx">Course Change Form</a>
 
