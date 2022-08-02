@@ -54,27 +54,6 @@ function csvToArray(str, delimiter = ",") {
 
 /**
  * 
- * @param {Array} data 
- */ /**
-function buildTable(data) {
-  var table = document.getElementById('y1s2-table');
-
-  for (var i = 0; i < data.length; i++) {
-    var row = `<tr>
-                  <td>${data[i].Assessment}</td>
-                  <td>${data[i].Module}</td>
-                  <td>${data[i].Weight}</td>
-                  <td>${data[i].Release}</td>
-                  <td>${data[i].Due}</td>
-                  <td>${data[i].Status}</td>
-                  <td>${data[i].data["Marking Deadline"]}</td>
-              </tr>`
-    table.innerHTML += row;
-  }
-}
-*/
-/**
- * 
  * @param {string} filePath 
  * @returns array
  */
@@ -91,8 +70,6 @@ function loadFile(filePath) {
 
 data = loadFile(y1s2_assessment_data);
 console.table(data);
-
-//buildTable(data);
 
 var s = data;
 var cols = [];
