@@ -19,7 +19,7 @@
 | Exam Results Released | Wednesday 16th February | 16/02/2022 |
 | Easter Vacation Begins | Monday 4th April | 04/04/2022 |
 | Easter Vacation Ends | Friday 22nd April | 22/04/2022 |
-| Summer Exam Timetable Release | Monday 25th April | 25/04/2022 |
+| Summer Exam Timetable Release | Monday 11th April | 11/04/2022 |
 | Semester 2 Teaching Ends | Friday 6th May | 06/05/2022 |
 | Semester 2 Exam Period Begins | Monday 23rd May | 23/05/2022 |
 | Semester 2 Exam Period Ends | Saturday 11th June | 11/06/2022 |
