@@ -32,7 +32,6 @@ function csvToTable(csv, table) {
     }
     hrow.insertCell(-1).innerHTML = '<strong>Day</strong>';
     var body = table.createTBody();
-    console.log(lines);
     for (var i = 1; i < lines.length; i++) {
         lines[i] = lines[i] + "," + formatShortDate(new Date(lines[i].split(",")[1])) + "," + formatTextDate(new Date(lines[i].split(",")[1]));
     }
