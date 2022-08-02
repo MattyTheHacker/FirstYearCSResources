@@ -12,6 +12,8 @@ function csvToTable(csv, table) {
     }
 }
 
+
+
 function loadFile(filePath) {
     var result = null;
     var xmlHttp = new XMLHttpRequest();
@@ -26,16 +28,16 @@ function loadFile(filePath) {
 
 function displayDates(year) {
     data = loadFile("data/key-dates/" + year + ".csv");
-    return data
+    return data;
 }
 
 
 
 var tables = document.getElementsByTagName("table");
-for(var i = 0; i < tables.length; i++) {
+for (var i = 0; i < tables.length; i++) {
     var table = tables[i];
-    var year = table.getAttribute("data-year");
-    if(year) {
+    var year = table.id;
+    if (year) {
         data = displayDates(year);
         csvToTable(data, table.id);
     }
