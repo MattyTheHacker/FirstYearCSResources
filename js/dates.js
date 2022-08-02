@@ -27,7 +27,7 @@ function loadFile(filePath) {
 
 
 function displayDates(year) {
-    data = loadFile("data/key-dates/" + year + ".csv");
+    var data = loadFile("data/key-dates/" + year + ".csv");
     return data;
 }
 
