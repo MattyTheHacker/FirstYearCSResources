@@ -14,6 +14,7 @@ function csvToArray(str, delimiter = ",") {
     return el;
   });
   arr.forEach(function (element) {
+    console.log(element['"Released"']);
     element['"Released"'] = new Date(element['"Released"']);
     element['"Due"'] = new Date(element['"Due"']);
     element['"Marking Deadline"'] = new Date(element['"Marking Deadline"'])
