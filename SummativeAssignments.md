@@ -4,8 +4,17 @@
 <header style="text-align:center">
 <h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
 </header>
+
 # Summative Assignments
+
 ## Year 1
+
+### Semester 2
+
+<div id="y1s2-table">
+
+</div>
+
 ### Semester 1
 *Notes:*
 
@@ -41,13 +50,6 @@
 | Online Test 6 | OOP | 5% | 12/12/2021 | 22/12/2021 | Closed | Instant |
 | Exam | DSA | 80% | 10/01/2022 9:30AM | 10/01/2022 12:00AM | Closed | 31/01/2022 |
 | Exam | MLFCS | 80% | 12/01/2022 9:30AM | 12/01/2022 12:00AM | Closed | 02/02/2022 |
-
-### Semester 2
-
-<div id="y1s2-table">
-
-</div>
-
 
 ## Year 2
 ### Semester 1
