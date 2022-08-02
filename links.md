@@ -29,33 +29,7 @@
 
 ## Resources
 
-### Year 1
-
-#### Semester 1
-- <a href="https://rl.talis.com/3/bham/lists/B7DB904B-AD4C-4058-A3E2-C1B29783B6E9.html?lang=en-GB&login=1">OOP</a>
-- <a href="https://rl.talis.com/3/bham/lists/9D90A298-56FA-D257-8912-E8D987062F10.html?lang=en-GB&login=1">DSA</a> 
-- <a href="https://rl.talis.com/3/bham/lists/CB5A15D8-9C29-5D06-340B-74FD52A84B65.html?lang=en-GB&login=1">MLFCS</a>
-
-#### Semester 2
-- <a href="https://rl.talis.com/3/bham/lists/6CD8B1EF-2CFC-5495-2E12-B6863ECA599D.html?lang=en-GB&login=1">AI 1</a>
-- <a href="https://rl.talis.com/3/bham/lists/A592D915-F733-4481-CB8D-B6A3A2AA2F4D.html?lang=en-GB&login=1">FSAD</a>
-- <a href="https://rl.talis.com/3/bham/lists/2368E554-0AE3-2A9C-2F25-51B8FA06E416.html?lang=en-GB&login=1">ToC</a>
-
-<a href="https://rhysimus.com/resources/">Extra Reading</a>
-
-### Year 2
-
-#### Semester 1
-- <a href="https://rl.talis.com/3/bham/lists/EF0BA679-056F-CCF1-72F3-EB7AB5FE8FEC.html"> Operating Systems and Systems Programming </a>
-- <a href="https://bham.rl.talis.com/modules/06-34258.html"> Software Engineering and Professional Rractice </a>
-- <a href= "https://rl.talis.com/3/bham/lists/92283481-130F-56C1-2D70-D2D02A4CB118.html?lang=en-GB"> Functional Programming </a>
-
-
-#### Semester 2
-- <a href="https://bham.rl.talis.com/modules/06-34256.html"> Artificial Intelligence 2 </a>
-- <a href="https://bham.rl.talis.com/modules/06-30432.html"> Security and Networks </a>
-- Team Project (No Reading List Exists)
-
+Resource lists are currently being migrated to the <a href="modules"> Modules </a> page.
 
 
 ## CSS
