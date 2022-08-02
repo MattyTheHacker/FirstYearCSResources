@@ -1,9 +1,9 @@
 <head>
 <style>
 .markdown-body {
-  max-width: 880px;
+  max-width: auto;
   margin: 0 auto;
-  padding: 30px;
+  padding: 10px;
 }
 </style>
 </head>
@@ -14,7 +14,7 @@
 # Year 1 (2021)
 
 
-https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/1
+[Year 1 Module List](https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/1)
 
 
 | Code | Title | Semester | Exam:CA |
