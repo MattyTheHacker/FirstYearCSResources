@@ -2,7 +2,6 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <header style="text-align:center">
-<script src="js/main.js"></script>
 <h1><a href="https://mattythehacker.github.io/FirstYearCSResources/"><b>HOME</b></a></h1>
 </header>
 # Summative Assignments
@@ -59,3 +58,10 @@
 ## Year 2
 ### Semester 1
 ### Semester 2
+
+
+
+
+
+
+<script src="js/main.js"></script>
