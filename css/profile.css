@@ -169,6 +169,10 @@ body {
     margin: 0 10px;
 }
 
+.fab:hover {
+    cursor: pointer;
+}
+
 .fa-facebook:hover {
     color: #4267B2 !important;
 }
@@ -188,8 +192,8 @@ body {
 .fa-github:hover {
     color: #161414 !important;
     background-color: white;
-    border: 2px;
     border-color: black;
+    border: 2px;
 }
 
 .fa-whatsapp:hover {
