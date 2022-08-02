@@ -1,4 +1,14 @@
-const csvFile = "https://mattythehacker.github.io/FirstYearCSResources/resources/CS-Module-Marks-Tracker-blank.xlsx";
+const csvFile = "data/y1s2_sa.csv";
+
+
+/** 
+$.ajax({
+    url: 'resources/CS-',
+    dataType: 'text',
+  }).done(successFunction);
+
+*/
+
 /**
 function csvToArray(str, delimiter = ",") {
     const headers = str.slice(0, str.indexOf("\n")).split(delimiter);
@@ -22,15 +32,13 @@ txtFile.onreadystatechange = function() {
       allText = txtFile.responseText;
       lines = txtFile.responseText.split("\n"); // Will separate each line into an array
       console.log(allText);
-      alert(allText);
     } else {
         console.log("File not found...");
     }} else {
       console.log("Document is not ready...");
   }
 }
-
-/** 
+/**
 const reader = new FileReader();
 reader.onload = function (fileInput) {
     const text = e.target.result;
