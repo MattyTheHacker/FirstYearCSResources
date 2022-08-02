@@ -20,7 +20,7 @@ function loadFile(filePath) {
     xmlHttp.open("GET", filePath, false);
     xmlHttp.send();
     if (xmlHttp.status == 200) {
-        result = csvToArray(xmlHttp.responseText);
+        result = xmlHttp.responseText;
     }
     return result;
 }
