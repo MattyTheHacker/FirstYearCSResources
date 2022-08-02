@@ -1,5 +1,5 @@
-<script src="jquery-csv.js"></script>
-var data = csv.csv.toObjects("data/y1s2_sa.csv");
+import { csv as _csv } from 'jquery-csv';
+var data = _csv.toObjects("data/y1s2_sa.csv");
 const myDate = new Date();
 
 
