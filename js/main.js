@@ -3,6 +3,25 @@ const myDate = new Date();
 
 /**
  * 
+ * @param {HTMLTableElement} table table to sort
+ * @param {number} column index of the column to sort by
+ * @param {boolean} asc true if ascending, false if descending
+ */
+function sortTableByColumn(table, column, asc = true) {
+  const dirMod = asc ? 1 : -1;
+  const tBody = table.tBodies[0];
+  const rows = Array.from(tBody.querySelectorAll("tr"));
+
+  //sort it
+  const sortedRows = rows.sort((a, b) => {
+    console.log(a);
+    console.log(b);
+  })
+}
+
+
+/**
+ * 
  * @param {Date} dateObject 
  * @returns Date/Time String
  */
@@ -112,3 +131,4 @@ function loadFile(filePath) {
 
 data = loadFile(y1s2_assessment_data);
 buildTable(data);
+sortTableByColumn(document.querySelector("y1s2-table"), 1);
