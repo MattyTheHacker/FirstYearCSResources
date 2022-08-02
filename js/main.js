@@ -131,4 +131,4 @@ function loadFile(filePath) {
 
 data = loadFile(y1s2_assessment_data);
 buildTable(data);
-sortTableByColumn(document.querySelector("tftable"), 1);
+sortTableByColumn(document.getElementById("tftable"), 1);
