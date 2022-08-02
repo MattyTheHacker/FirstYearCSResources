@@ -21,7 +21,7 @@ function csvToArray(str, delimiter = ",") {
   });
   arr.forEach(function (element) {
     console.log(element['"Released"'] + " of type: " + typeof element['"Released"']);
-    element['"Released"'] = new Date(element['"Released"']);
+    element['"Released"'] = new Date(element['"Released"'].replaceAll('"', ''));
     element['"Due"'] = new Date(element['"Due"']);
     element['"Marking Deadline"'] = new Date(element['"Marking Deadline"'])
   })
