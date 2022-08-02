@@ -45,8 +45,14 @@
 ### Year 2
 
 #### Semester 1
+- <a href="https://rl.talis.com/3/bham/lists/EF0BA679-056F-CCF1-72F3-EB7AB5FE8FEC.html> Systems Programming </a>
+- <a href="https://bham.rl.talis.com/modules/06-34258.html> Software Engineering and Professional Rractice </a>
+- <a href= "https://rl.talis.com/3/bham/lists/92283481-130F-56C1-2D70-D2D02A4CB118.html?lang=en-GB> Functional Programming </a>
+
 
 #### Semester 2
+
+
 
 
 ## CSS
