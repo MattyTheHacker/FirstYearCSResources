@@ -1,7 +1,7 @@
 const y1s2_assessment_data = "data/y1s2_sa.csv";
 
 function csvToArray(str, delimiter = ",") {
-  const headers = str.slice(0, str.indexOf("\n").split(delimiter));
+  const headers = str.slice(0, str.indexOf("\n")).split(delimiter);
   const rows = str.slice(str.indexOf("\n") + 1).split("\n");
 
   const arr = rows.map(function (row) {
@@ -23,7 +23,7 @@ function loadFile(filePath) {
   xmlHttp.send();
   if (xmlHttp.status == 200) {
     result = xmlHttp.responseText.split("\n");
-    console.log(csvToArray(xmlHttp.responseText + ""));
+    console.log(csvToArray(xmlHttp.responseText));
   }
   return result;
 }
