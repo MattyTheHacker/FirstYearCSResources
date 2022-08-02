@@ -40,8 +40,7 @@
 ## CSS
 - <a href="https://cssbham.com/join">Join the Society</a>
 - <a href="https://cssbham.com/calendar">View the Calendar</a>
-- <a href="https://cssbham.com/discord">Join Discord</a>
-- <a href="https://cssbham.com/hoodies">Grab a hoodie</a>
+- <a href="https://cssbham.com/discord">Join the Discord</a>
 - <a href="https://cssbham.com/committee">Check out the Committee</a>
 - <a href="https://cssbham.com/github">View the GitHub</a>
 
