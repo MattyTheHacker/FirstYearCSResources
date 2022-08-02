@@ -69,7 +69,4 @@ function loadFile(filePath) {
 }
 
 data = loadFile(y1s2_assessment_data);
-
-console.log(data);
 console.table(data);
-console.log(myDate);
