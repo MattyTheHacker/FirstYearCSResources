@@ -30,6 +30,8 @@ function csvToTable(csv, table) {
         var hrcell = hrow.insertCell(-1);
         hrcell.innerHTML = '<strong>' + headers[i] + '</strong>';
     }
+    hrow.insertCell(-1).innerHTML = '<strong>Date DD/MM/YYYY</strong>';
+    hrow.insertCell(-1).innerHTML = '<strong>Day</strong>';
     var body = table.createTBody();
     console.log(lines);
     for (var i = 1; i < lines.length; i++) {
