@@ -86,14 +86,4 @@ for (var l in s) {
 }
 html += '</tbody></table>';
 
-
-
-
-
-
-
-
-
-
-
-
+document.getElementById("y1s2-table").innerHTML = html;
