@@ -57,7 +57,7 @@ function csvToArray(str, delimiter = ",") {
     return el;
   });
   arr.forEach(function (element) {
-    //element['"Weight"'] = (element['"Weight"'] * 100) + "%"
+    element['"Weight"'] = (element['"Weight"'] * 100).toString() + "%"
 
     element['Released'] = (new Date(element['Released']));
     element['Due'] = (new Date(element['Due']));
