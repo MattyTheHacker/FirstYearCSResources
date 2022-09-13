@@ -8,6 +8,7 @@
 
 
 ## Misc.
+- <a href="http://www.uobcore.bham.ac.uk/"> UoB Core </a>
 - <a href="https://bham.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx">Panopto</a>
 - <a href="https://student-gateway.bham.ac.uk/">Student Gateway (Marks and Grades)</a>
 - <a href="https://verify.bham.ac.uk/">Verify (Official Letters and Documents)</a>
