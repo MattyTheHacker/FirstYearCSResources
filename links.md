@@ -44,8 +44,6 @@
 
 Resource lists are currently being migrated to the <a href="modules"> Modules </a> page.
 
-Please be aware the page is still under construction and as such may have problems or not be up to date.
-
 
 ## CSS
 - <a href="https://cssbham.com/join">Join the Society</a>

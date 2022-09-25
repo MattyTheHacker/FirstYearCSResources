@@ -8,8 +8,6 @@ To go to the module page, please click on the module code.
 
 To go to the module reading list, please click on the module title.
 
-Please be aware the page is still under construction and as such may have problems or not be up to date.
-
 # Year 1
 
 [Year 1 Module List](https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/1)
