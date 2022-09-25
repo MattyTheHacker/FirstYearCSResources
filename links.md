@@ -29,15 +29,15 @@
 
 ## Modules
 
-<a href="https://www.cs.bham.ac.uk/internal/programmes/2021">All SoCS Programmes</a><br>
+<a href="https://www.cs.bham.ac.uk/internal/programmes/2022">All SoCS Programmes</a><br>
 <a href="https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getSchoolList">Central Uni Programmes and Modules List</a>
 
 
 ### BSc. CS
 
-- <a href="https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/1">Year 1</a>
-- <a href="https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/2">Year 2</a>
-- <a href="https://www.cs.bham.ac.uk/internal/programmes/2021/4436/years/3">Year 3</a>
+- <a href="https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/1">Year 1</a>
+- <a href="https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/2">Year 2</a>
+- <a href="https://www.cs.bham.ac.uk/internal/programmes/2022/4436/years/3">Year 3</a>
 
 
 ## Resources
