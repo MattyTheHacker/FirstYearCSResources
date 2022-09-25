@@ -6,11 +6,11 @@
 # Frequently Asked Questions
 
 ## Where can I see my timetable? 
-https://mattythehacker.github.io/FirstYearCSResources/links#web-timetables
+[https://mattythehacker.github.io/FirstYearCSResources/links](https://mattythehacker.github.io/FirstYearCSResources/links#web-timetables)
 
 
 ## How do I join the society?
-https://cssbham.com/join 
+[https://cssbham.com/join/](https://cssbham.com/join/)
 
 
 ## Why should I join the society?
@@ -24,10 +24,10 @@ https://cssbham.com/join
 
 
 ## How do I join the discord?
-https://cssbham.com/discord
+[https://cssbham.com/discord/](https://cssbham.com/discord/)
 
 
 ## When does term start or end?
-https://mattythehacker.github.io/FirstYearCSResources/KeyDates
+[https://mattythehacker.github.io/FirstYearCSResources/KeyDates](https://mattythehacker.github.io/FirstYearCSResources/KeyDates)
 
 
