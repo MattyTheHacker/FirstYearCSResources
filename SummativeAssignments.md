@@ -9,7 +9,20 @@
 
 # Summative Assignments
 
-## Year 1
+## Year 2 (2022)
+
+### Semester 1
+
+<div id="y2s1-table">
+
+</div>
+
+### Semester 2
+
+
+
+
+## Year 1 (2021)
 
 ### Semester 2
 

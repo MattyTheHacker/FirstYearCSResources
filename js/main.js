@@ -1,4 +1,5 @@
 const y1s2_assessment_data = "data/y1s2_sa.csv";
+const y2s1_assessment_data = "data/y2s1_sa.csv";
 const myDate = new Date();
 
 /**
@@ -46,7 +47,7 @@ function formatDate(dateObject) {
  * 
  * @param {Array} s 
  */
-function buildTable(s) {
+function buildTable(s, divid) {
   var cols = [];
   for (var k in s) {
     for (var c in s[k]) {
@@ -60,7 +61,7 @@ function buildTable(s) {
   }
   html += '</tbody></table>';
 
-  document.getElementById("y1s2-table").innerHTML += html;
+  document.getElementById(divid).innerHTML += html;
 }
 
 /**
@@ -135,8 +136,11 @@ function loadFile(filePath) {
   return result;
 }
 
-data = loadFile(y1s2_assessment_data);
-buildTable(data);
+y1s2_data = loadFile(y1s2_assessment_data);
+buildTable(y1s2_data, "y1s2-table");
+
+y2s1_data = loadFile(y2s1_assessment_data);
+buildTable(y2s1_data, "y2s1-table");
 
 document.querySelectorAll("table th").forEach(headerCell => {
   headerCell.addEventListener("click", () => {
